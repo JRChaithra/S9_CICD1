@@ -1,0 +1,31 @@
+body {
+  background-color: white;
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+table {
+  background-color: black;
+  margin: 50px auto;
+  border-collapse: collapse;
+  border: 3px solid black;   /* Increased outer border */
+}
+
+td {
+  background-color: white;
+  color: black;
+  padding: 10px;
+  text-align: center;
+  border: 2px solid black;   /* Increased cell borders */
+}
+
+
+input {
+  color: black;
+  padding: 5px;
+}
+
+button {
+  padding: 5px 10px;
+  cursor: pointer;
+}
