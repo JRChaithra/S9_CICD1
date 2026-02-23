@@ -168,7 +168,7 @@ const Registration = () => {
                         onMouseEnter={(e) => handleButtonHover(e, true)}
                         onMouseLeave={(e) => handleButtonHover(e, false)}
                     >
-                        Register Now
+                        Submit
                     </button>
                     <button 
                         ref={resetBtnRef}
